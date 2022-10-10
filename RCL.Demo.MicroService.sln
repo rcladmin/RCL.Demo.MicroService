@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RCL.Demo.MicroService", "RCL.Demo.MicroService\RCL.Demo.MicroService.csproj", "{A369DBE8-0BD7-4FC8-94F9-2AC93A5BDF30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RCL.Demo.Data", "RCL.Demo.Data\RCL.Demo.Data.csproj", "{D9001BA8-AB86-4997-B95A-F33537D9DF22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A369DBE8-0BD7-4FC8-94F9-2AC93A5BDF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A369DBE8-0BD7-4FC8-94F9-2AC93A5BDF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A369DBE8-0BD7-4FC8-94F9-2AC93A5BDF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A369DBE8-0BD7-4FC8-94F9-2AC93A5BDF30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9001BA8-AB86-4997-B95A-F33537D9DF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9001BA8-AB86-4997-B95A-F33537D9DF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9001BA8-AB86-4997-B95A-F33537D9DF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9001BA8-AB86-4997-B95A-F33537D9DF22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0474F32D-D239-4377-8133-7C3F47518F6F}
+	EndGlobalSection
+EndGlobal
